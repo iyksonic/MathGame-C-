@@ -1,0 +1,6 @@
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\mathgame2\mathgame2\bin\Debug\mathgame2.exe.config
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\mathgame2\mathgame2\bin\Debug\mathgame2.exe
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\mathgame2\mathgame2\bin\Debug\mathgame2.pdb
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\mathgame2\mathgame2\obj\Debug\mathgame2.csprojResolveAssemblyReference.cache
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\mathgame2\mathgame2\obj\Debug\mathgame2.exe
+C:\Users\NDUKWE IKEDIEZE\Documents\SharpDevelop Projects\mathgame2\mathgame2\obj\Debug\mathgame2.pdb
